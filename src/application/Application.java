@@ -12,7 +12,7 @@ import swing.ActionListenerFactory;
 import swing.AplicationFrame;
 
 public class Application {
- static  final String Path="C:\\Users\\Daniel\\Desktop\\Wallba";
+ static  final String Path="Ruta del directorio de imágenes";
     public static void main(String[] args) {
         new Application().execute();
     }
